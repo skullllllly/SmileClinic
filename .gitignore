@@ -1,3 +1,7 @@
-/build/
-/nbproject/
-/dist/
+# تجاهل مجلدات التشغيل التلقائية
+build/
+dist/
+nbdist/
+
+# تجاهل إعدادات NetBeans الشخصية
+nbproject/private/
