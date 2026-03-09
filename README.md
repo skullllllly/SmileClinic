@@ -26,15 +26,15 @@ Below are the core interfaces of the system:
 
 ### 1. Patient Management
 *Efficiently track and manage patient data.*
-![Patients Module]("images\1.png")
+![Patients Module](src/images\1.png)
 
 ### 2. Billing & Invoicing
 *Financial tracking and invoice generation.*
-![Billing Module](images/3.png)
+![Billing Module](src/images/3.png)
 
 ### 3. Services & Pricing
 *Control the clinic's treatment list and costs.*
-![Pricing Module](images/4.png)
+![Pricing Module](src/images/4.png)
 
 ---
 
